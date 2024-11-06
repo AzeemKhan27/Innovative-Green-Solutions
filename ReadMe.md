@@ -1,7 +1,7 @@
 # vultr:
 
 - server hostname : postgresql-server
-- server label : 
+- server label : My PostgreSQL Label
 
 
 How to login Server:
@@ -19,4 +19,4 @@ Your public key has been saved in /home/azimdev/.ssh/id_rsa.pub
  - cat ~/.ssh/id_rsa.pub
 
 4- copy full key.
-5- login vultr and paste it.
+5- login vultr and paste it.    
