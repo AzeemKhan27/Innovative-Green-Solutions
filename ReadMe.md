@@ -20,3 +20,16 @@ Your public key has been saved in /home/azimdev/.ssh/id_rsa.pub
 
 4- copy full key.
 5- login vultr and paste it.    
+
+# Docker Installation in Ubuntu.
+
+ - sudo apt install gnome-terminal
+ - sudo apt-get update
+ - sudo apt-get install ./docker-desktop-amd64.deb
+
+# Regular Maintenance: 
+Use Docker CLI or Portainer to prune unused images and containers to save disk space:
+
+- docker system prune
+
+
